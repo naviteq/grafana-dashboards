@@ -216,7 +216,7 @@
       {
         "allValue": ".+",
         "current": {
-          "selected": false,
+          "selected": true,
           "text": "All",
           "value": "$__all"
         },
@@ -236,7 +236,7 @@
           "stream": "{environment=\"$environment\"}",
           "type": 1
         },
-        "refresh": 1,
+        "refresh": 2,
         "regex": "",
         "skipUrlSync": false,
         "sort": 0,
@@ -251,5 +251,6 @@
   "timepicker": {},
   "timezone": "",
   "title": "Application logs",
+  "version": 1,
   "weekStart": ""
 }
